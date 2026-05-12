@@ -27,5 +27,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://msrtx.github.io/Intermedial-Echoes-Pilot-Viewer/manifests/TT278manifest.json",
     "label" : "TT278: Hathor as cow"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://msrtx.github.io/Intermedial-Echoes-Pilot-Viewer/manifests/anicowmanifest.json",
+    "label" : "BD 10470,37: Hathor as cow"
   } ]
 }
