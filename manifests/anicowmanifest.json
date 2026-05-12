@@ -2,7 +2,7 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://msrtx.github.io/Intermedial-Echoes-Pilot-Viewer/manifests/anicowmanifest.json",
   "@type" : "sc:Manifest",
-  "label" : "BD 10470,37: Hathor as cow",
+  "label" : "BM 10470,37: Hathor as cow",
   "metadata" : [ ],
   "description" : [ {
     "@value" : "Book of the Dead of Ani: Hathor as cow emerging from the Theban mountain",
@@ -20,7 +20,7 @@
     "canvases" : [ {
       "@id" : "http://cae3ab44-2971-4b54-8b08-b897c4b740f0",
       "@type" : "sc:Canvas",
-      "label" : "TT278 - Hathor as cow",
+      "label" : "BD Ani - Hathor as cow",
       "height" : 2341,
       "width" : 4482,
       "images" : [ {
