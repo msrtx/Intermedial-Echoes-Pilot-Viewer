@@ -11,5 +11,11 @@
       "en" : [ "TT278-Hathor" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://msrtx.github.io/Intermedial-Echoes-Pilot-Viewer/manifests/manifestTT278cow.json",
+    "label" : {
+      "en" : [ "TT278-Hathor" ]
+    },
+    "type" : "Manifest"
   } ]
 }
