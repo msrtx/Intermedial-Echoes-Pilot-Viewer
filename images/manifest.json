@@ -7,5 +7,87 @@
             "All images loaded in msrtx/Intermedial-Echoes-Pilot-Viewer project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://msrtx.github.io/Intermedial-Echoes-Pilot-Viewer/images/BM_EA_10470_37/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "BM_EA_10470_37"
+                ]
+            },
+            "height": 1712,
+            "width": 2500,
+            "items": [
+                {
+                    "id": "https://msrtx.github.io/Intermedial-Echoes-Pilot-Viewer/images/BM_EA_10470_37/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://msrtx.github.io/Intermedial-Echoes-Pilot-Viewer/images/BM_EA_10470_37/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://msrtx.github.io/Intermedial-Echoes-Pilot-Viewer/images/BM_EA_10470_37/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 79,
+                                                "height": 54
+                                            },
+                                            {
+                                                "width": 157,
+                                                "height": 107
+                                            },
+                                            {
+                                                "width": 313,
+                                                "height": 214
+                                            },
+                                            {
+                                                "width": 625,
+                                                "height": 428
+                                            },
+                                            {
+                                                "width": 1250,
+                                                "height": 856
+                                            },
+                                            {
+                                                "width": 2500,
+                                                "height": 1712
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2500,
+                                        "@id": "https://msrtx.github.io/Intermedial-Echoes-Pilot-Viewer/images/BM_EA_10470_37",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1712,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://msrtx.github.io/Intermedial-Echoes-Pilot-Viewer/images/BM_EA_10470_37/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
