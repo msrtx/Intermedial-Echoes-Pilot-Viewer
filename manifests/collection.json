@@ -31,5 +31,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://msrtx.github.io/Intermedial-Echoes-Pilot-Viewer/manifests/anicowmanifest.json",
     "label" : "BD 10470,37: Hathor as cow"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://msrtx.github.io/Intermedial-Echoes-Pilot-Viewer/manifests/linencowmanifest.json",
+    "label" : "BM EA 43215: Hathor as cow"
   } ]
 }
