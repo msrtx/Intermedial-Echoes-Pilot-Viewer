@@ -169,6 +169,87 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "https://msrtx.github.io/Intermedial-Echoes-Pilot-Viewer/images/TT278/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "TT278"
+                ]
+            },
+            "height": 2341,
+            "width": 4482,
+            "items": [
+                {
+                    "id": "https://msrtx.github.io/Intermedial-Echoes-Pilot-Viewer/images/TT278/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://msrtx.github.io/Intermedial-Echoes-Pilot-Viewer/images/TT278/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://msrtx.github.io/Intermedial-Echoes-Pilot-Viewer/images/TT278/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 141,
+                                                "height": 74
+                                            },
+                                            {
+                                                "width": 281,
+                                                "height": 147
+                                            },
+                                            {
+                                                "width": 561,
+                                                "height": 293
+                                            },
+                                            {
+                                                "width": 1121,
+                                                "height": 586
+                                            },
+                                            {
+                                                "width": 2241,
+                                                "height": 1171
+                                            },
+                                            {
+                                                "width": 4482,
+                                                "height": 2341
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 4482,
+                                        "@id": "https://msrtx.github.io/Intermedial-Echoes-Pilot-Viewer/images/TT278",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2341,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://msrtx.github.io/Intermedial-Echoes-Pilot-Viewer/images/TT278/canvas/"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
