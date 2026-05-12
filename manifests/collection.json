@@ -23,5 +23,9 @@
       "en" : [ "TT278-Hathor" ]
     },
     "type" : "Manifest"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://msrtx.github.io/Intermedial-Echoes-Pilot-Viewer/manifests/TT278manifest.json",
+    "label" : "TT278: Hathor as cow"
   } ]
 }
