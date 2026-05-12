@@ -1,0 +1,15 @@
+{
+  "id" : "https://msrtx.github.io/Intermedial-Echoes-Pilot-Viewer/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in msrtx/Intermedial-Echoes-Pilot-Viewer project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://msrtx.github.io/Intermedial-Echoes-Pilot-Viewer/manifests/manifest.json",
+    "label" : {
+      "en" : [ "TT278-Hathor" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
